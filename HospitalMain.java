@@ -1,4 +1,4 @@
-class Patient {
+class Patientgender {
     protected String name;
     protected int age;
     protected String disease;
